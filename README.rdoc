@@ -1,0 +1,1 @@
+Just a bunch of code snippets that don't need full git repos.
