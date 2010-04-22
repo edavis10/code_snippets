@@ -3,7 +3,7 @@
 #
 require 'redmine'
 
-Redmine::Plugin.register :redmine_gist do
+Redmine::Plugin.register :redmine_comment_wiki_macro do
   name 'Redmine Wiki Comment plugin'
   author 'Eric Davis'
   description 'Allows commenting out a section of the Redmine wiki'
