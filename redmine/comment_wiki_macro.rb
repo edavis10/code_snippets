@@ -4,7 +4,7 @@
 require 'redmine'
 
 Redmine::Plugin.register :redmine_gist do
-  name 'Redmine YouTube plugin'
+  name 'Redmine Wiki Comment plugin'
   author 'Eric Davis'
   description 'Allows commenting out a section of the Redmine wiki'
   version '0.0.1'
